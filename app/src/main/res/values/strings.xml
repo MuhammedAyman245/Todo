@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="splash">ToDo</string>
+    <string name="home">home\n</string>
+    <string name="Login">LogIn\n</string>
+    <string name="Register">Register\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
